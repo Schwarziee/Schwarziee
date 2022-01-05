@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Schwarziee
-- 👀 I’m interested in ricing my linux & learning datascience libs for linux
+- 👀 I’m interested in ricing my linux & learning to use datascience libs (pandas, seaborn, scipy etc..)
 - 🌱 I’m currently learning python
 - 📫 How to reach me:
 - rakubicek@seznam.cz
